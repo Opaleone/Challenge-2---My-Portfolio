@@ -38,4 +38,4 @@ University of Texas - Austin
 ## License
 ---
 
-Please refer to the license in the repository.
+Please refer to the license in the repo.
