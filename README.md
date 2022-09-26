@@ -8,10 +8,10 @@ This repo contains my second challenge for the Coding Bootcamp at the University
 The goal of this website is to create a mockup from scratch of a portfolio website originally created by the Coding Bootcamp. 
 
 >This image is the website I based mine on.
-![screenshot-of-mockup](assets/images/challenge-2-screenshot.png)
+
 
 >A screenshot of My version.
-![my-version-of-the-mockup-website](assets/images/my-version.png)
+
 
 ## How I did it
 ---
