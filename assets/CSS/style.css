@@ -152,7 +152,6 @@ footer {
 
 .sidebar {
   text-orientation: upright;
-  font-size: 50px;
   text-align: right;
   color: var(--darkBlue);
   border-right: solid;
@@ -210,13 +209,11 @@ footer {
   margin: 0 17.4px;
 }
 
-
-
 .contact-list {
   display: flex;
   align-items: center;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 /* ID Selectors */
@@ -247,7 +244,7 @@ footer {
 }
 
 #horiseon {
-  background-image: linear-gradient(to left top, );
+  background-image: linear-gradient(to left top, white, #2a607c);
   flex: 1 0 45%;
 }
 
