@@ -177,7 +177,7 @@ footer {
   display: inline-block;
   background-color: var(--lightBlue);
   font-weight: bold;
-  width: 7rem;
+  width: 15%;
   text-align: end;
   padding: 10px 5px 10px 0;
 }
